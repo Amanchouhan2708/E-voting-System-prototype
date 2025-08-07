@@ -23,6 +23,7 @@ It integrates **role-based access**, **login authentication**, **real-time valid
 Below are some UI concept mockups to illustrate the project workflow:
 ### 🧑‍💼 Admin Portal
 <img width="144" height="151" alt="{D2727D4D-BA57-480B-B713-EC65DD4DB0C3}" src="https://github.com/user-attachments/assets/22a460ce-0285-453b-aea4-b3ff2b9886b1" />
+
 ### 🗳️ Voting Interface
 <img width="149" height="153" alt="{C738468D-38F0-4DFC-9058-F89726C9AE1F}" src="https://github.com/user-attachments/assets/32923a06-8b43-4a89-a4d0-c7a9df1b15e0" />
 
